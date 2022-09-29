@@ -1,20 +1,24 @@
-Cuivre -
-Plomb -
-Feraille -
-Sable -
-Charbon -
-Titane -
-Thorium -
-Graphite -
-Verre trempé -
-Spore -
-Silicone -
-Plastanium -
-Tissu phasé -
-Alliage superchargé -
-Mélange explosif -
-Pyratite -
-Eau -
-Pétrole -
-Scories -
-Fluide cryogénique -
+Cuivre - Passereau
+Plus leur nombre est grand, plus ils sont individuellement forts
+Plomb - 
+Feraille - 
+Sable - 
+Charbon - 
+Titane - 
+Thorium - Poule
+Fonce sur les ennemis comme un crawler, mais plus lent avec plus de vie, rayon d'explosion plus grand, n'explose pas lorsque tué
+Graphite - 
+Verre trempé - 
+Spore - 
+Silicone - 
+Plastanium - 
+Tissu phasé - 
+Alliage superchargé - Aigle
+Très lent, portée énorme
+Mélange explosif - 
+Pyratite - Canard
+Hybride qui peut aller dans les airs, l'eau et le sol
+Eau - 
+Pétrole - 
+Scories - 
+Fluide cryogénique - 
