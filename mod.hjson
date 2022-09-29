@@ -1,0 +1,8 @@
+name: "testMod"
+displayName: "This is a mod."
+author: Corentin
+description: "azertyuiopqsdfghjklmwxcvbn"
+version: "0.1a"
+minGameVersion: "138"
+dependencies: [ ]
+hidden: false
