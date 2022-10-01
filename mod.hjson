@@ -2,7 +2,7 @@ name: "Resourcesbird"
 displayName: "Resources gallinaceous"
 author: Corentin, Mauviette
 description: "Chicken + thorium = cool units"
-version: "0.1b"
+version: "0.1a"
 minGameVersion: "138"
 dependencies: [ ]
 hidden: false
